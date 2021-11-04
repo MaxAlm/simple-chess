@@ -1,0 +1,16 @@
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\bin\Release\netcoreapp3.1\SimpleChess.exe
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\bin\Release\netcoreapp3.1\SimpleChess.deps.json
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\bin\Release\netcoreapp3.1\SimpleChess.runtimeconfig.json
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\bin\Release\netcoreapp3.1\SimpleChess.runtimeconfig.dev.json
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\bin\Release\netcoreapp3.1\SimpleChess.dll
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\bin\Release\netcoreapp3.1\SimpleChess.pdb
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\obj\Release\netcoreapp3.1\SimpleChess.csproj.AssemblyReference.cache
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\obj\Release\netcoreapp3.1\SimpleChess.Form1.resources
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\obj\Release\netcoreapp3.1\SimpleChess.csproj.GenerateResource.cache
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\obj\Release\netcoreapp3.1\SimpleChess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\obj\Release\netcoreapp3.1\SimpleChess.AssemblyInfoInputs.cache
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\obj\Release\netcoreapp3.1\SimpleChess.AssemblyInfo.cs
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\obj\Release\netcoreapp3.1\SimpleChess.csproj.CoreCompileInputs.cache
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\obj\Release\netcoreapp3.1\SimpleChess.dll
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\obj\Release\netcoreapp3.1\SimpleChess.pdb
+C:\Users\46705\OneDrive\Documents\Visual Studio\Annat\SimpleChess\SimpleChess\obj\Release\netcoreapp3.1\SimpleChess.genruntimeconfig.cache
